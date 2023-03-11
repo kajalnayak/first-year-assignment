@@ -34,7 +34,7 @@ int main()
             printf("%f/%f=%f \n",a,b,division);
             break;
         }
-        defult:
+        default:
         {
             ("you have entered wrong choice");
             break;
